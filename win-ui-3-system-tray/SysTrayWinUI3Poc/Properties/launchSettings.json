@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SystemTrayWinUI3Poc (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "SystemTrayWinUI3Poc (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

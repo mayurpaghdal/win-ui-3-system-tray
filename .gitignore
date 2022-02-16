@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/win-ui-3-system-tray/SysTrayWinUI3Poc/bin
+/win-ui-3-system-tray/SysTrayWinUI3Poc/obj
+/win-ui-3-system-tray/SysTrayWinUI3Poc (Package)/bin
+/win-ui-3-system-tray/SysTrayWinUI3Poc (Package)/obj
